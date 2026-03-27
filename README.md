@@ -15,13 +15,13 @@ Backbone: ResNet-50 | Framework: PyTorch Lightning + TorchGeo
 ## Visualisations
 
 ### GradCAM — where the model looks
-![GradCAM](![GradCAM](https://github.com/timchenko69/eurosat_water_detection/tree/efa63eec4f42b43ac8e2b7559317b7bdf3007e24/results))
+![GradCAM](results/fig_gradcam.png)
 
 ### Prediction Confidence Grid
-![Grid](https://github.com/timchenko69/eurosat_water_detection/tree/efa63eec4f42b43ac8e2b7559317b7bdf3007e24/results)
+![Grid](results/fig_confidence_grid.png)
 
 ### Real-World Sliding Window Inference
-![Real World](https://github.com/timchenko69/eurosat_water_detection/tree/efa63eec4f42b43ac8e2b7559317b7bdf3007e24/results)
+![Real World](results/fig_realworld.png)
 
 ## Run on Kaggle
 
