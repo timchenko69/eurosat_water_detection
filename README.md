@@ -26,11 +26,11 @@ Backbone: ResNet-50 | Framework: PyTorch Lightning + TorchGeo
 ## Run on Kaggle
 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](
-https://www.kaggle.com/YOUR_USERNAME/eurosat-water-detection)
+https://www.kaggle.com/code/timchenko69/eurosat-water-classification)
 
 ## Pretrained Checkpoint
 
-Download from Google Drive: [link here]
+Download from Google Drive: [[link here](https://disk.yandex.ru/d/S10-hsONSz-9Xw)]
 
 ## Structure
 
