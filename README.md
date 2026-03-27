@@ -30,7 +30,7 @@ https://www.kaggle.com/code/timchenko69/eurosat-water-classification)
 
 ## Pretrained Checkpoint
 
-Download from Google Drive: [[link here](https://disk.yandex.ru/d/S10-hsONSz-9Xw)]
+Download from Yandex disk: [[link here](https://disk.yandex.ru/d/S10-hsONSz-9Xw)]
 
 ## Structure
 
